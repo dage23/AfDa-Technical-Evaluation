@@ -1,4 +1,4 @@
-# Afinidata-Technical-Evaluation
+# AfDa-Technical-Evaluation
 
 Created a simple To-Do List Using python Django REST Framework as backend connected to ReactJS.
 
